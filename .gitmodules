@@ -1,0 +1,12 @@
+[submodule "pbdagcon"]
+	path = pbdagcon
+	url = git://github.com/PacificBiosciences/pbdagcon.git
+[submodule "blasr"]
+	path = blasr
+	url = git://github.com/PacificBiosciences/blasr.git
+[submodule "blasr_libcpp"]
+	path = blasr_libcpp
+	url = git://github.com/PacificBiosciences/blasr_libcpp.git
+[submodule "pbcommand"]
+	path = pbcommand
+	url = git://github.com/PacificBiosciences/pbcommand.git
