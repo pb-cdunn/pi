@@ -10,3 +10,6 @@
 [submodule "pbcommand"]
 	path = pbcommand
 	url = git://github.com/PacificBiosciences/pbcommand.git
+[submodule "pith"]
+	path = pith
+	url = git://github.com/PacificBiosciences/pith.git
