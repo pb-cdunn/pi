@@ -19,3 +19,6 @@
 [submodule "DAZZ_DB"]
 	path = DAZZ_DB
 	url = git://github.com/PacificBiosciences/DAZZ_DB.git
+[submodule "pbsmrtpipe"]
+	path = pbsmrtpipe
+	url = git://github.com/PacificBiosciences/pbsmrtpipe.git
